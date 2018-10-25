@@ -1,0 +1,38 @@
+ body
+ {
+     text-align: center;
+     }
+ 
+ h2
+ {
+     background-color: purple;
+     }
+
+ 
+ img
+ {width: 250px;}
+ 
+ img
+ {
+     border: 20px groove gold;
+     }
+ 
+ img
+ {
+     border-radius: 4px;
+     }
+ 
+ h1
+ {
+     font-family: "Kirang Haerang";
+     }
+     
+h3
+{
+    font-family: "Kirang Haerang";
+     }
+ 
+ html
+{
+    background-color: #DED7C6;
+     }
